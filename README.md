@@ -10,7 +10,8 @@ difficulty starting or following through by providing a sense of satisfaction wi
 3) Use expo to run the app 
 
 # Inspiration
-Inability to focus on and complete tasks at hand.
+People with ADHD suffer from the inability to focus on and complete tasks at hand.
+Through our app, we want to help them.
 # What it does
 A gamified task manager to tackle executive dysfunction
 # How we built it
