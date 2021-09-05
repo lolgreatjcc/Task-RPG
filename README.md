@@ -7,7 +7,7 @@ difficulty starting or following through by providing a sense of satisfaction wi
 # How to install and run the application: 
 1) Fork the repository  
 2) Clone the repository onto your local drive
-3) Use expo to run the app 
+3) Use expo-cli to run the downloaded project 
 
 Alternative (& Preffered) way of running the application: 
 https://snack.expo.dev/@victoria1232/greedy-carrot
@@ -24,6 +24,7 @@ Using Expo-CLI and React Native
 # What's next for Task RPG
 We hope to add more monsters and features if we have more time in the future.
 
+Video Demonstration Link: https://youtu.be/c5rFNc3JNfE
 
 
 
