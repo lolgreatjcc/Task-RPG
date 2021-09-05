@@ -9,6 +9,10 @@ difficulty starting or following through by providing a sense of satisfaction wi
 2) Clone the repository onto your local drive
 3) Use expo to run the app 
 
+Alternative (& Preffered) way of running the application: 
+https://snack.expo.dev/@victoria1232/greedy-carrot
+Note: When demoing the expo-cli snack, please use the IOS version.
+
 # Inspiration
 People with ADHD suffer from the inability to focus on and complete tasks at hand.
 Through our app, we want to help them.
@@ -20,8 +24,6 @@ Using Expo-CLI and React Native
 # What's next for Task RPG
 We hope to add more monsters and features if we have more time in the future.
 
-Note: When demoing the expo-cli snack, please use the IOS version.
 
 
-Alternative (& Preffered) way of running the application: 
-https://snack.expo.dev/@victoria1232/greedy-carrot
+
